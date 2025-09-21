@@ -17,3 +17,32 @@ int main()
 
     return 0;
 }
+
+
+// using two for loops
+
+// #include <stdio.h>
+
+// int main()
+// {
+//     int n;
+//     scanf("%d",&n);
+    
+    
+//     for(int i=1;i<=n;i++){
+//         int count=65;
+//         for(int j=1;j<=n;j++){
+//             if(i+j>n){
+//                 printf("%c",count);
+//                 count++;
+//             }
+//             else{
+//                 printf(" ");
+//             }
+//         }
+//     printf("\n");
+//         }
+    
+
+//     return 0;
+// }
